@@ -6,6 +6,7 @@ public class Clase2 {
 		System.out.println("Patata");
 		System.out.println("Jojos es GOD");
 		System.out.println("Tengo sueño");
+		System.out.println("Bola de patata");
 	}
 
 }
