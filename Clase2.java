@@ -14,6 +14,7 @@ public class Clase2 {
 
 		System.out.println("Bola de patata");
 
+		System.out.println(hola);
 	}
 
 }
