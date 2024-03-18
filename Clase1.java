@@ -9,5 +9,6 @@ public class Clase1 {
 		System.out.println("Hola");
 		System.out.println("Adios");
 	}
-
+	public static void ver(){
+	}
 }
