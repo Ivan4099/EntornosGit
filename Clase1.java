@@ -8,6 +8,7 @@ public class Clase1 {
 		System.out.println("Tengo hambre");
 		System.out.println("Hola");
 		System.out.println("Adios");
+		System.out.println("Hola soy Maria");
 	}
 	public static void ver(){
 		int pat=0;
