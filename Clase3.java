@@ -6,6 +6,7 @@ public class Clase3 {
 		int contador;
 		contador=0;
 		System.out.println("Hola profe");
+		contador++;
 		System.out.println("No me suspendas");
 		System.out.println("Porfa");
 		System.out.println("Guille");
