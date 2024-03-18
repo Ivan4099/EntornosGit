@@ -13,6 +13,7 @@ public class Clase3 {
 		System.out.println("Guille");
 		contador=0;
 		System.out.println("Adios");
+		System.out.println("10+2");
 	}
 
 }
