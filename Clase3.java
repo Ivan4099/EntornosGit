@@ -11,6 +11,7 @@ public class Clase3 {
 		System.out.println("Porfa");
 		contador=contador +10;
 		System.out.println("Guille");
+		contador=0;
 	}
 
 }
