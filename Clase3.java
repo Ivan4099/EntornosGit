@@ -12,6 +12,7 @@ public class Clase3 {
 		contador=contador +10;
 		System.out.println("Guille");
 		contador=0;
+		System.out.println(contador);
 	}
 
 }
