@@ -9,6 +9,7 @@ public class Clase3 {
 		contador++;
 		System.out.println("No me suspendas");
 		System.out.println("Porfa");
+		contador=contador +10;
 		System.out.println("Guille");
 	}
 
